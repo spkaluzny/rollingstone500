@@ -6,7 +6,7 @@ Rank;Year;Artist;Song;Album
 5;1967;Aretha Franklin;Respect;I Never Loved a Man the Way I Love You
 6;1966;The Beach Boys;Good Vibrations;Smile
 7;1958;Chuck Berry;Johnny B. Goode;The Great Twenty-Eight
-8;1968;The Beatles;Hey Jude
+8;1968;The Beatles;Hey Jude;_single_
 9;1991;Nirvana;Smells Like Teen Spirit;Nevermind
 10;1959;Ray Charles;What'd I Say;The Birth of Soul: The Complete Atlantic Rhythm and Blues Recordings 1952-1959
 11;1965;The Who;My Generation;My Generation
@@ -22,7 +22,7 @@ Rank;Year;Artist;Song;Album
 21;1975;Bruce Springsteen;Born to Run;Born to Run
 22;1963;The Ronettes;Be My Baby;Presenting the Fabulous Ronettes
 23;1965;The Beatles;In My Life;Rubber Soul
-24;1965;The Impressions;People Get Ready
+24;1965;The Impressions;People Get Ready;People Get Ready
 25;1966;The Beach Boys;God Only Knows;Pet Sounds
 26;1968;Otis Redding;(Sittin' On) The Dock of the Bay;The Dock of the Bay
 27;1970;Derek and the Dominos;Layla;Layla And Other Assorted Love Songs
@@ -37,7 +37,7 @@ Rank;Year;Artist;Song;Album
 36;1991;U2;One;Achtung Baby
 37;1975;Bob Marley & The Wailers;No Woman, No Cry;Natty Dread
 38;1969;The Rolling Stones;Gimme Shelter;Let It Bleed
-39;1957;Buddy Holly & The Crickets;That'll Be the Day;The "Chirping" Crickets
+39;1957;Buddy Holly & The Crickets;That'll Be the Day;The \"Chirping\" Crickets
 40;1964;Martha and the Vandellas;Dancing in the Street
 41;1968;The Band;The Weight;Music From Big Pink
 42;1968;The Kinks;Waterloo Sunset;Something Else By The Kinks
